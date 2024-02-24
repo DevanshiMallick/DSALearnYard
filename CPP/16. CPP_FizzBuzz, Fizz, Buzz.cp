@@ -1,4 +1,5 @@
-/* Given a number N, iterate i=1 to N:
+/* https://www.hackerrank.com/challenges/fizzbuzz/problem 
+Given a number N, iterate i=1 to N:
 print "FizzBuzz" if i is a multiple of both 3 and 5
 print "Fizz" if i is a multiple of 3 only
 print "Buzz" if i is a multiple of 5 only
